@@ -1,15 +1,8 @@
 {
-  artistname : "Deep Purple",
-    albums : [
-      {
-        album : "Machine Head",
-        year : 1972,
-        genre : "Rock"
-      }, 
-      {
-        album : "Stormbringer",
-        year : 1974,
-        genre : "Rock"
-      }
-    ]
+  idTA : "A01.0.00.001"
+  name : "Anatomia generalis",
+  nameEN : "General anatomy",
+  nameES : "Anatomía general",
+  nameCA : "Anatomia general",
+   
 }
