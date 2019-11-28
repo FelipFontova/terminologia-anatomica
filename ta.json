@@ -7,7 +7,7 @@
     "ca" : "Anatomia general"
   },
   
-   "idTA" : "A01.0.00.001", 
+   "idTA" : null, 
    "term" : {
     "la" : "Anatomia systemica",
     "en" : "Systemic anatomy",
