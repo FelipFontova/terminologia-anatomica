@@ -1,8 +1,8 @@
 {
-  idTA : "A01.0.00.001"
+  idTA : "A01.0.00.001", 
   name : "Anatomia generalis",
   nameEN : "General anatomy",
   nameES : "Anatomía general",
-  nameCA : "Anatomia general",
+  nameCA : "Anatomia general"
    
 }
