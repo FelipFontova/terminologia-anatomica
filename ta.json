@@ -5,5 +5,13 @@
     "en" : "General anatomy",
     "es" : "Anatomía general",
     "ca" : "Anatomia general"
+  },
+  {
+   "idTA" : "A01.0.00.001", 
+   "term" : {
+    "la" : "Verticalis",
+    "en" : "Vertical",
+    "es" : "Vertical",
+    "ca" : "Vertical"
   }
 }
