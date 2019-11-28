@@ -1,9 +1,9 @@
 {
-  idTA : "A01.0.00.000", 
-  name : [
-    la : "Anatomia generalis",
-    en : "General anatomy",
-    es : "Anatomía general",
-    ca : "Anatomia general"
-   ]
+  "idTA" : "A01.0.00.000", 
+  "name" : {
+    "la" : "Anatomia generalis",
+    "en" : "General anatomy",
+    "es" : "Anatomía general",
+    "ca" : "Anatomia general"
+  }
 }
