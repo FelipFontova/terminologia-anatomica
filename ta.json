@@ -1,19 +1,22 @@
 {
-  "Terminologia Anatomica" : [{
-  "idTA" : null, 
-  "term" : {
-    "la" : "Anatomia generalis",
-    "en" : "General anatomy",
-    "es" : "Anatomía general",
-    "ca" : "Anatomia general"
-  }},{
-  
-   "idTA" : null, 
-   "term" : {
-    "la" : "Anatomia systemica",
-    "en" : "Systemic anatomy",
-    "es" : "Anatomía sistémica",
-    "ca" : "Anatomia sistémica"
-  }}
+  "Terminologia Anatomica" : [
+    {
+      "idTA" : null, 
+      "term" : {
+        "la" : "Anatomia generalis",
+        "en" : "General anatomy",
+        "es" : "Anatomía general",
+        "ca" : "Anatomia general"
+      }
+    },
+    {  
+      "idTA" : null, 
+      "term" : {
+      "la" : "Anatomia systemica",
+      "en" : "Systemic anatomy",
+      "es" : "Anatomía sistémica",
+      "ca" : "Anatomia sistémica"
+      }
+    },
   ]
 }
